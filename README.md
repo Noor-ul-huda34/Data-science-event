@@ -103,13 +103,17 @@ This project showcases a complete event webpage featuring:
 * Registration Form
 
 ---
+🌐 Live Demo
+
+View the live website here:
+https://noor-ul-huda34.github.io/Data-science-event/
 
 ## 👨‍💻 Author
 
 **Noor-ul-Huda**
 
 Student of Data Science | Web Development Enthusiast
-https://noor-ul-huda34.github.io/Data-science-event/
+
 ---
 
 ## ⭐ Support
