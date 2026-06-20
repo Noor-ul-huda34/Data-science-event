@@ -109,7 +109,7 @@ This project showcases a complete event webpage featuring:
 **Noor-ul-Huda**
 
 Student of Data Science | Web Development Enthusiast
-
+https://noor-ul-huda34.github.io/Data-science-event/
 ---
 
 ## ⭐ Support
