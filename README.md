@@ -92,6 +92,10 @@ To run this project locally:
 * Fully mobile-optimized design
 
 ---
+🌐 Live Demo
+
+View the live website here:
+https://noor-ul-huda34.github.io/Data-science-event/
 
 ## 📸 Preview
 
@@ -103,10 +107,6 @@ This project showcases a complete event webpage featuring:
 * Registration Form
 
 ---
-🌐 Live Demo
-
-View the live website here:
-https://noor-ul-huda34.github.io/Data-science-event/
 
 ## 👨‍💻 Author
 
